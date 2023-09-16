@@ -84,7 +84,11 @@ dp数组第一行等于能量图第一行
 
 缩放前：
 
+![image](https://github.com/novelvast/SeamCarving/assets/113240184/99d67597-592f-45c3-a944-ad24474d276f)
+
 
 
 缩放后：
+
+![image](https://github.com/novelvast/SeamCarving/assets/113240184/279cd455-26eb-49df-b1b7-e1c30c03ee74)
 
